@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(236, 235, 235);
+}
+
+header{
+    background-color: rgb(155, 220, 241);
+}
+
+header > h1{
+    text-align: center;
+}
+header > nav > a {
+    text-decoration: none;
+}
